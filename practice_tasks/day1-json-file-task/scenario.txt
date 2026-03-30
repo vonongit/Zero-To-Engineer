@@ -1,0 +1,10 @@
+Task: Write a Python script that reads a JSON configuration file and validates that all required fields are present.
+
+Here's the context: your team manages infrastructure configurations as JSON files. Before those configs get fed into automation pipelines.
+Someone needs to make sure they aren't missing critical fields a senior engineer asks you to write a quick validation script.
+
+Create a JSON file called server_config.json with fields like server name, environment (dev/staging/prod), ip address, subnet, cpu count, and memory. Make up the values.
+Then write a Python script that reads that file, checks that every required field exists and isn't empty, and prints a clear pass/fail report telling you which fields are missing or empty if any.
+
+What you'll need to figure out: how to read a file in Python (you've touched on this in the docs).
+How to work with JSON (look at Python's json module in the standard library documentation), and how to check for missing or empty values.

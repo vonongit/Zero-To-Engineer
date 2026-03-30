@@ -1,0 +1,8 @@
+{
+    "server_name": "main",
+    "environment": "prod",
+    "ip": "192.168.1.0",
+    "subnet": "192.168.0.0",
+    "cpu_count": 4,
+    "memory": 38
+}

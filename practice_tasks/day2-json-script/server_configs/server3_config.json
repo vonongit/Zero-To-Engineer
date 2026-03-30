@@ -1,0 +1,8 @@
+{
+    "server_name": "backup2",
+    "environment": "",
+    "ip": "192.168.3.0",
+    "subset": "192.168.0.0",
+    "cpu_count": 3,
+    "memory": 30
+}

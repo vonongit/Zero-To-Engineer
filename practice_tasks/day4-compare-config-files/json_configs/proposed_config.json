@@ -1,0 +1,9 @@
+{
+    "server_name": "failover",
+    "environment": "dev",
+    "state": "running",
+    "runtime": "5hrs",
+    "ip": "192.168.2.0",
+    "cpu_count": 1,
+    "memory": 29
+}

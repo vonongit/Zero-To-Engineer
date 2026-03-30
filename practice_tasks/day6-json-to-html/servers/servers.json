@@ -1,0 +1,37 @@
+[
+  {
+    "server_name": "main",
+    "status": "running",
+    "ip": "192.168.1.0",
+    "cpu_usage": 4,
+    "memory": 38
+  },
+  {
+    "server_name": "backup",
+    "status": "running",
+    "ip": "192.168.2.0",
+    "cpu_usage": 2,
+    "memory": 33
+  },
+  {
+    "server_name": "development",
+    "status": "stopped",
+    "ip": "192.168.3.0",
+    "cpu_usage": 3,
+    "memory": 30
+  },
+  {
+    "server_name": "failover",
+    "status": "restarting",
+    "ip": "192.168.4.0",
+    "cpu_usage": 1,
+    "memory": 29
+  },
+  {
+    "server_name": "image",
+    "status": "starting",
+    "ip": "192.168.5.0",
+    "cpu_usage": 5,
+    "memory": 35
+  }
+]
